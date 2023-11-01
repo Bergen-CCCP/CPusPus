@@ -1,0 +1,21 @@
+packages: .
+
+source-repository-package
+  type: git
+  location: https://github.com/Bergen-CCCP/BuildHat
+
+source-repository-package
+  type: git
+  location: https://github.com/Bergen-CCCP/SpikePrime
+
+source-repository-package
+  type: git
+  location: https://github.com/Bergen-CCCP/Lego-Parts
+
+source-repository-package
+  type: git
+  location: https://github.com/Bergen-CCCP/yopencv
+
+source-repository-package
+  type: git
+  location: https://github.com/Bergen-CCCP/RLL
